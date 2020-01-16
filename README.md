@@ -1,6 +1,6 @@
 # ChallengeLemonWay
 Challenge link: https://gist.github.com/lemonway/4a2a22949e96863769ce91185bfc2f43#file-webservice_challenge-md
-There are 2 projects in this repos.
+There are 3 projects in this repos.
 # 1. ChallengeLemonWayAPI
 This is the SOAP webservice which have **Fibonacci service** and **XmlToJson service**. I built the simple Webservice, there is not yet authentification.
 For testing, you can run the Webservice on `localhost` and use Postman for sending requests. 
