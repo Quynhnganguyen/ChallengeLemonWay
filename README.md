@@ -48,7 +48,7 @@ packages\xunit.runner.console.2.4.1\tools\net452\xunit.console.exe ChallengeLemo
 This is an Application Console for consuming the webservices in ChallengeLemonwayAPI.
 For checking this application, there are 3 steps:
 1. Build APIConsumer by Visual Studio. (After this step, you have a `ChallengeLemonwayConsumer.exe` in `ChallengeLemonwayConsumer/bin/Debug` or `ChallengeLemonwayConsumer/bin/Release` depend on your choice).
-2. Run the Webservice ChuaNgotApi on `localhost`.
+2. Run the Webservice ChallengeLemonwayAPI on `localhost`.
 3. Run file `ChallengeLemonwayConsumer.exe` for testing
 
 # 4. References
